@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name=".borderBottom_1.png" type="multi"  />
+    <image name=".borderBottomL_1.png" type="multi"  />
+    <image name=".borderBottomR_1.png" type="multi"  />
+    <image name=".borderCenter_1.png" type="multi"  />
+    <image name=".borderLeft_1.png" type="multi"  />
+    <image name=".borderRight_1.png" type="multi"  />
+    <image name=".borderTop_1.png" type="multi"  />
+    <image name=".borderTopL_1.png" type="multi"  />
+    <image name=".borderTopR_1.png" type="multi"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <gradient key="bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="bgType" value="0" />
+    </theme>
+    <image name="velo.png"  />
+</resource>
